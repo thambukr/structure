@@ -1,7 +1,4 @@
 #include<stdio.h>
 {
-printf("")
-	
-	
-	vjcvvc`;
+printf("thambu kr");
 }
